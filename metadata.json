@@ -1,0 +1,5 @@
+{
+  "name": "영수증 정리 정돈 (Receipt Organizer)",
+  "description": "복잡한 영수증을 OCR로 분석하여 깔끔한 엑셀 데이터로 정리해주는 서비스입니다.",
+  "requestFramePermissions": []
+}
